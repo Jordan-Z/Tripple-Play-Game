@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".C4Activity">
+
+    <TableLayout
+        android:layout_width="376dp"
+        android:layout_height="551dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageButton
+                android:id="@+id/row1col1"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                app:srcCompat="@android:drawable/btn_star_big_on" />
+
+            <ImageButton
+                android:id="@+id/row1col2"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                app:srcCompat="@android:drawable/btn_star_big_on" />
+
+            <ImageButton
+                android:id="@+id/row1col3"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                app:srcCompat="@android:drawable/btn_star_big_on" />
+
+            <ImageButton
+                android:id="@+id/row1col4"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                app:srcCompat="@android:drawable/btn_star_big_on" />
+
+            <ImageButton
+                android:id="@+id/row1col5"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                app:srcCompat="@android:drawable/btn_star_big_on" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageButton
+                android:id="@+id/row2col1"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                app:srcCompat="@android:drawable/btn_star_big_on" />
+
+            <ImageButton
+                android:id="@+id/row2col2"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                app:srcCompat="@android:drawable/btn_star_big_on" />
+
+            <ImageButton
+                android:id="@+id/row2col3"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                app:srcCompat="@android:drawable/btn_star_big_on" />
+
+            <ImageButton
+                android:id="@+id/row2col4"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                app:srcCompat="@android:drawable/btn_star_big_on" />
+
+            <ImageButton
+                android:id="@+id/row2col5"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                app:srcCompat="@android:drawable/btn_star_big_on" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageButton
+                android:id="@+id/row3col1"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                app:srcCompat="@android:drawable/btn_star_big_on" />
+
+            <ImageButton
+                android:id="@+id/row3col2"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                app:srcCompat="@android:drawable/btn_star_big_on" />
+
+            <ImageButton
+                android:id="@+id/row3col3"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                app:srcCompat="@android:drawable/btn_star_big_on" />
+
+            <ImageButton
+                android:id="@+id/row3col4"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                app:srcCompat="@android:drawable/btn_star_big_on" />
+
+            <ImageButton
+                android:id="@+id/row3col5"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                app:srcCompat="@android:drawable/btn_star_big_on" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageButton
+                android:id="@+id/row4col1"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                app:srcCompat="@android:drawable/btn_star_big_on" />
+
+            <ImageButton
+                android:id="@+id/row4col2"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                app:srcCompat="@android:drawable/btn_star_big_on" />
+
+            <ImageButton
+                android:id="@+id/row4col3"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                app:srcCompat="@android:drawable/btn_star_big_on" />
+
+            <ImageButton
+                android:id="@+id/row4col4"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                app:srcCompat="@android:drawable/btn_star_big_on" />
+
+            <ImageButton
+                android:id="@+id/row4col5"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                app:srcCompat="@android:drawable/btn_star_big_on" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageButton
+                android:id="@+id/row5col1"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                app:srcCompat="@android:drawable/btn_star_big_on" />
+
+            <ImageButton
+                android:id="@+id/row5col2"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                app:srcCompat="@android:drawable/btn_star_big_on" />
+
+            <ImageButton
+                android:id="@+id/row5col3"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                app:srcCompat="@android:drawable/btn_star_big_on" />
+
+            <ImageButton
+                android:id="@+id/row5col4"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                app:srcCompat="@android:drawable/btn_star_big_on" />
+
+            <ImageButton
+                android:id="@+id/row5col5"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                app:srcCompat="@android:drawable/btn_star_big_on" />
+        </TableRow>
+    </TableLayout>
+
+    <TextView
+        android:id="@+id/message"
+        android:layout_width="319dp"
+        android:layout_height="69dp"
+        android:gravity="center"
+        android:text="Welcome to 4 in a row"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+        android:textColor="@color/colorPrimary"
+        android:textSize="30dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.507"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.843" />
+
+    <Button
+        android:id="@+id/resetBTN"
+        android:layout_width="87dp"
+        android:layout_height="45dp"
+        android:text="Reset"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.542"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.969" />
+
+    <Button
+        android:id="@+id/nextBTN"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Next"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.945"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.969" />
+
+    <Button
+        android:id="@+id/htpBTN"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="How To Play"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.059"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.969" />
+
+</android.support.constraint.ConstraintLayout>
